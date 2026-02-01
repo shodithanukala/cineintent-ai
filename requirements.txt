@@ -1,4 +1,8 @@
 streamlit
 transformers
 torch
+Pillow
+numpy
+scikit-learn
+huggingface_hub
 sentencepiece
